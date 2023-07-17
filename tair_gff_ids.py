@@ -1,5 +1,5 @@
 import pandas as pd
-def get_tair_coordinates(gff, arabidopsis_gene = FALE, arabidopsis_exon = FALSE, \
+def get_tair_coordinates(gff, arabidopsis_gene = FALSE, arabidopsis_exon = FALSE, \
                         arabidopsis_three_prime_UTR = FALSE, \
                         arabidopsis_five_prime_UTR = FALSE):
     """
